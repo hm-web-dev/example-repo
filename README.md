@@ -7,10 +7,10 @@ This repo allows you to:
 ## Basic Commands
 Git is a version control system that you can use to manage your files. Watch for the bolded words: the vocabulary is slightly different from the previous Version Control worksheet! Git keeps track of the contents of a *single folder*, which is called a **repository**. 
 
-Using your terminal, make an empty folder on your desktop named GitSandbox. Then, move to that folder and type in the following command: git init
+Using your terminal, make an empty folder on your desktop named GitSandbox. Then, move to that folder and type in the following command: `git init`
 What happens?
 
-Now put some files (any files) into GitSandbox. Type the command: git status
+Now put some files (any files) into GitSandbox. Type the command: `git status`
 What do you see?
 
 `git add <specific file name>`
