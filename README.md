@@ -13,8 +13,8 @@ What happens?
 Now put some files (any files) into GitSandbox. Type the command: `git status`
 What do you see?
 
-`git add <specific file name>`
-`git add .`	*(add entire repository to the stage)*
+
+Now add `git add <specific file name>`, or `git add .`	*(add entire repository to the stage)*. 
 In Git, changes must be staged before they are allowed to be committed. You can add specific files to the stage, or the entire repository. 
 Why might this intermediate staging be useful?
 
